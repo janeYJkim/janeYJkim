@@ -80,8 +80,9 @@ body {
   padding: 20px;
 }
 
-#janejane {
-    text-align: center;
+img {
+    display:block; 
+    margin:auto;
 }
 
 /*ARROW LINK*/
